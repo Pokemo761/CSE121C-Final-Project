@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program2-OnlineOrdering/Program2-OnlineOrdering.csproj",
+      "projectUniqueName": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program2-OnlineOrdering/Program2-OnlineOrdering.csproj",
       "projectName": "Program2-OnlineOrdering",
-      "projectPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program2-OnlineOrdering/Program2-OnlineOrdering.csproj",
+      "projectPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program2-OnlineOrdering/Program2-OnlineOrdering.csproj",
       "packagesPath": "/Users/marcos/.nuget/packages/",
-      "outputPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program2-OnlineOrdering/obj/",
+      "outputPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program2-OnlineOrdering/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marcos/.nuget/NuGet/NuGet.Config"

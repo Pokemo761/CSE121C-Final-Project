@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program1-YouTubeVideos/Program1-YouTubeVideos.csproj",
+      "projectUniqueName": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program1-YouTubeVideos.csproj",
       "projectName": "Program1-YouTubeVideos",
-      "projectPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program1-YouTubeVideos/Program1-YouTubeVideos.csproj",
+      "projectPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program1-YouTubeVideos.csproj",
       "packagesPath": "/Users/marcos/.nuget/packages/",
-      "outputPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/Program1-YouTubeVideos/obj/",
+      "outputPath": "/Users/marcos/Documents/BYU-I /Programing with classes/project/CSE121C-Final-Project/Program1-YouTubeVideos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marcos/.nuget/NuGet/NuGet.Config"
