@@ -127,7 +127,7 @@ cd Program1-YouTubeVideos
 # Run the program
 dotnet run
 
-If doesn't run by uisng the command you can run the project by opening the folder seperately 
+# If doesn't run by uisng the command you can run the project by opening the folder seperately 
 ```
 
 
