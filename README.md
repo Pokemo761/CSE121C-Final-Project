@@ -112,10 +112,10 @@ A fitness tracking application for a local fitness center that tracks running, c
 
 ## OOP Principles Demonstrated
 
-✅ **Abstraction** - Hiding implementation details behind simple interfaces  
-✅ **Encapsulation** - Private member variables with public methods  
-✅ **Inheritance** - Base classes sharing code with derived classes  
-✅ **Polymorphism** - Method overriding for different behaviors
+**Abstraction** - Hiding implementation details behind simple interfaces  
+**Encapsulation** - Private member variables with public methods  
+**Inheritance** - Base classes sharing code with derived classes  
+**Polymorphism** - Method overriding for different behaviors
 
 ## How to Run
 
